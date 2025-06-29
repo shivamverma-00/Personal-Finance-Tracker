@@ -1,0 +1,29 @@
+{
+  "transactions": [
+    {
+      "transaction_id": "ac3ca0a9-3272-4d21-b67f-f409bb5f1888",
+      "amount": 12350.0,
+      "description": "jd",
+      "category": "other",
+      "transaction_type": "income",
+      "date": "2025-06-29T20:56:15.459737"
+    },
+    {
+      "transaction_id": "95108a5c-6999-470c-87da-ee19d317fdea",
+      "amount": 454000.0,
+      "description": "salary",
+      "category": "salary",
+      "transaction_type": "income",
+      "date": "2025-06-29T20:57:54.471996"
+    },
+    {
+      "transaction_id": "7837be48-f2be-4aa3-9d39-fc6ad7b2433b",
+      "amount": 677.0,
+      "description": "sa",
+      "category": "salary",
+      "transaction_type": "income",
+      "date": "2025-06-29T21:30:28.691730"
+    }
+  ],
+  "last_updated": "2025-06-29T21:30:28.691846"
+}
